@@ -1,4 +1,4 @@
-### 👋 Salut, moi c'est Maximilien !
+### Salut, c'est Maximilien !
 
 Étudiant en première année de Bachelor Développeur Full Stack à **CODA Orléans**, je m'oriente vers la cybersécurité et le développement système. Curieux et passionné par la technique, j'aime concevoir des scripts, automatiser des processus et explorer l'architecture des systèmes.
 
@@ -23,4 +23,4 @@
 ### 📫 Me contacter
 
 * **Site / Liens :** [Linktree](https://linktr.ee/maximillien.joyerocher)[cite: 3]
-* **Email :** maximilien.joyerocher@gmail.com[cite: 3]
+* **Email :** maximilien.joyerocher@gmail.com
