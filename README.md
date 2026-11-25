@@ -22,5 +22,5 @@
 
 ### 📫 Me contacter
 
-* **Site / Liens :** [Linktree](https://linktr.ee/maximillien.joyerocher)
+* **Site / Liens :** https://linktr.ee/maximilien.joyerocher
 * **Email :** maximilien.joyerocher@gmail.com
